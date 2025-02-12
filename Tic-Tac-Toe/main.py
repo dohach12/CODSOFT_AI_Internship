@@ -100,7 +100,7 @@ def main():
     
     st.title("🎮 Tic-Tac-Toe AI Platform")
     initialize_game()
-    
+
     # Create two columns for layout
     col1, col2 = st.columns([2, 1])
     
